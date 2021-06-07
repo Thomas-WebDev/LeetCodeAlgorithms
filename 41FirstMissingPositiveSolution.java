@@ -1,4 +1,4 @@
-class FirstMissingPositiveSolution {
+class 41FirstMissingPositiveSolution {
     public int firstMissingPositive(int[] nums) {
       //bucket sort the array then find the min positive value
       int n = nums.length;
